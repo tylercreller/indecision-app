@@ -1,0 +1,4 @@
+node_modules
+
+# Output File for Babel
+public/scripts/app.js
